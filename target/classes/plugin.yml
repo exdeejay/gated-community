@@ -1,0 +1,4 @@
+name: GatedCommunity
+version: 1.0
+main: com.w1ldcard.fenceprotect.GatedCommunity
+api-version: 1.16
